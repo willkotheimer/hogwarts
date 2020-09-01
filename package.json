@@ -1,7 +1,7 @@
 {
-  "name": "webpack-intro",
+  "name": "hogwarts-quiiditch",
   "version": "1.0.0",
-  "description": "",
+  "description": "Team play",
   "main": "src/javascripts/main.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
